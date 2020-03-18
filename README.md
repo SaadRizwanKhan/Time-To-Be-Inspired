@@ -35,16 +35,24 @@ a mosquito.” Dalai Lama</strong></span></p>
 <p><span><strong>“Be happy – it drives people crazy.” Unknown</strong></span></p>
 <br>
 <p><span><strong>“The question isn’t who is going to let me, it’s who is going to
-        stop me.” Ayn Rand.</strong></span></p>
-        <br>
-        <p><span><strong>“You’re only given a little spark of madness. You mustn’t lose it.”
-        Robin Williams</strong></span></p>
-        <br>
-        <p><span><strong>“The road to success is dotted with many tempting parking spaces.” Will
-        Rogers</strong></span></p>
+stop me.” Ayn Rand.</strong></span></p>
+<br>
+<p><span><strong>“You’re only given a little spark of madness. You mustn’t lose it.”
+Robin Williams</strong></span></p>
+<br>
+<p><span><strong>“The road to success is dotted with many tempting parking spaces.” Will
+Rogers</strong></span></p>
 <br>
 <p><span><strong>“Leadership is the art of getting someone else to do something you want
-        done because he wants to do it.” Dwight D. Eisenhower</strong></span></p>
-        <br>
-        <p><span><strong>“When tempted to fight fire with fire 🔥, remember that the Fire
-        Department usually uses water.🌊” Unknown</strong></span></p>
+done because he wants to do it.” Dwight D. Eisenhower</strong></span></p>
+<br>
+<p><span><strong>“When tempted to fight fire with fire 🔥, remember that the Fire
+Department usually uses water.🌊” Unknown</strong></span></p>
+<br>
+<p><span><strong>“Every next level of your life will demand a different you.🙂” Unknown</strong></span></p>
+<br>
+<p><span><strong>“Who looks outside, dreams; who looks inside, awakes.🙃” Carl Jung</strong></span></p>
+<br>
+<p><span><strong>“Little by little, one travels far. 🌄”  J. R. R. Tolkien.</strong></span></p>
+<br>
+<p><span><strong>“It will be the toughest thing you’ll ever do, but your heart is never wrong.  " Maxime Lagacé</strong></span></p>
