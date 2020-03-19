@@ -56,3 +56,11 @@ Department usually uses water.🌊” Unknown</strong></span></p>
 <p><span><strong>“Little by little, one travels far. 🌄”  J. R. R. Tolkien.</strong></span></p>
 <br>
 <p><span><strong>“It will be the toughest thing you’ll ever do, but your heart is never wrong.  " Maxime Lagacé</strong></span></p>
+<br>
+<p><span><strong>“Simplicity is the ultimate sophistication." Leonardo da Vinci</strong></span></p>
+<br>
+<p><span><strong>“Order your soul. Reduce your wants." Augustine</strong></span></p>
+<br>
+<p><span><strong>“When there is no desire, all things are at peace." Laozi</strong></span></p>
+<br>
+<p><span><strong>“An unexamined life is not worth living." Socrates</strong></span></p>
