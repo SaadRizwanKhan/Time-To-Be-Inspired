@@ -64,3 +64,5 @@ Department usually uses water.🌊” Unknown</strong></span></p>
 <p><span><strong>“When there is no desire, all things are at peace." Laozi</strong></span></p>
 <br>
 <p><span><strong>“An unexamined life is not worth living." Socrates</strong></span></p>
+<br>
+<p><span><strong>“As Strong as the war 🔥, as soft as peace 🕊, as free as the ocean 🌊" - Unknown</strong></span></p>
