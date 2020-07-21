@@ -55,6 +55,8 @@ Department usually uses water.🌊” Unknown</strong></span></p>
 <br>
 <p><span><strong>“Little by little, one travels far. 🌄”  J. R. R. Tolkien.</strong></span></p>
 <br>
+<p><span><strong>"If you feel yourself hitting up against your limit remember for what cause you clench your fists... remember why you started down this path, and let that memory carry you beyond your limit." 🤩✊🏻</strong> - Toshinori</span></p>
+<br>
 <p><span><strong>“It will be the toughest thing you’ll ever do, but your heart is never wrong.  " Maxime Lagacé</strong></span></p>
 <br>
 <p><span><strong>“Simplicity is the ultimate sophistication." Leonardo da Vinci</strong></span></p>
@@ -66,3 +68,11 @@ Department usually uses water.🌊” Unknown</strong></span></p>
 <p><span><strong>“An unexamined life is not worth living." Socrates</strong></span></p>
 <br>
 <p><span><strong>“As Strong as the war 🔥, as soft as peace 🕊, as free as the ocean 🌊" - Unknown</strong></span></p>
+<br>
+<p><span><strong>"The most inflated egos are often the most fragile."</strong> - Toshinori</span></p>
+<br>
+<p><span><strong>"I smile to show the pressure of heroes and to trick the fear inside of me."</strong> - Toshinori</span></p>
+<br>
+<p><span><strong>"Whether you win or lose... You can always come out ahead by learning from the experience."</strong> - Toshinori</span></p>
+<br>
+<p><span><strong>"I smile to show the pressure of heroes and to trick the fear inside of me."</strong> - Toshinori</span></p>
