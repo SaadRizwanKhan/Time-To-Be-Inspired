@@ -76,3 +76,4 @@ Department usually uses water.🌊” Unknown</strong></span></p>
 <p><span><strong>"Whether you win or lose... You can always come out ahead by learning from the experience."</strong> - Toshinori</span></p>
 <br>
 <p><span><strong>"I smile to show the pressure of heroes and to trick the fear inside of me."</strong> - Toshinori</span></p>
+<blockquote class="blockquote"><span><q>Controlling complexity is the essence of computer programming.</q><footer class="quote-author blockquote-footer"><cite>Brian Kernighan</cite></footer></span></blockquote>
